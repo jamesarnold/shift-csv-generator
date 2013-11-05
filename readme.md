@@ -1,0 +1,1 @@
+Simple script to generate a google Calendar compatible CSV from a given shift pattern.
